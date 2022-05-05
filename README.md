@@ -11,4 +11,8 @@ The upper confidence bound is implemented using the values of \alpha & \beta, wh
 
 # Contributors
 
-Prishat, Subir, Yashwant
+Prishat Bachhar
+
+Subir Kumar Parida
+
+Yashwant Raghuwanshi
